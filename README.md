@@ -67,6 +67,24 @@ You can also open the folder in **NetBeans** (*File → Open Project*) and run i
 
 ---
 
+<!-- syllabus:start -->
+## 📘 Syllabus · official UAH teaching guide
+
+> **Programación (781000)** · 6 ECTS · 1st year · 2nd semester · contents from the 2024-25 teaching guide · [official subject page](https://www.uah.es/es/estudios/estudios-oficiales/grados/asignatura/Programacion-781000/)
+
+| Unit | Hours | Topics |
+|---|---|---|
+| Programming languages | 2 h | Paradigms · Interpreters vs compilers · Virtual machines and intermediate languages |
+| Object-oriented foundations | 12 h | Abstraction and abstract data types · Encapsulation and information hiding · Classes, inheritance, abstract classes, polymorphism |
+| OO language syntax | 8 h | Types, operators, control flow, access control · Classes, attributes and methods |
+| Object-oriented analysis and design | 12 h | Modelling classes and relationships · Modelling notations · Testing and documentation |
+| Error handling | 4 h | Exceptions and runtime error recovery · Program robustness |
+| Graphical user interfaces | 8 h | GUI APIs · Event-driven programming · MVC architecture |
+| Data structures and I/O | 10 h | OO implementation of data structures · Sorting and searching · Files and object persistence |
+<!-- syllabus:end -->
+
+---
+
 <div align="center">
 
 Miguel Hernández López · [GitHub](https://github.com/MiguelHernandezz) · [LinkedIn](https://www.linkedin.com/in/miguel-hernandez-lopez/)
